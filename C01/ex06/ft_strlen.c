@@ -16,5 +16,5 @@ int ft_strlen(char *str) {
 int main(void) {
     char *str = "my_string"; 
     int hey = ft_strlen(str);
-        [printf]("%i characters", hey);
+    printf("%i characters", hey);
 }
