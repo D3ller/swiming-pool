@@ -1,4 +1,4 @@
-# 42 pool exercices
+# Pool exercices
 
 [C00](./C00)
 
@@ -9,5 +9,3 @@
 [C03](./C03)
 
 [C04](./C04)
-
-[Training exercices from book / ai](./training)
